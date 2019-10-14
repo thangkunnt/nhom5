@@ -1,6 +1,4 @@
 Tran Ngoc Thang
-<<<<<<< HEAD
 Nguyen Xuan Truong
-=======
+Ngo Vo Minh Vuong
 Truong Quang Phuoc
->>>>>>> f2f21ecea3ddc3ff26cc9dea9b6cdb4836891981
